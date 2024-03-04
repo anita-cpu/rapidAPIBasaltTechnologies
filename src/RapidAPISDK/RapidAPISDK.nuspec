@@ -8,7 +8,7 @@
     <owners>Adi</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Connect to RapidAPI</description>
-    <copyright>Copyright 2017</copyright>
+    <copyright>Copyright 2024</copyright>
     <tags>RapidAPI sdk connect</tags>
   </metadata>
 </package>
